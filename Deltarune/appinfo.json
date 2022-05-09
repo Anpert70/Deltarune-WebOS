@@ -1,0 +1,9 @@
+{
+    "vendor": "Toby Fox",
+    "icon": "icon.png",
+    "main": "index.html",
+    "id": "com.tobyfox.deltarune",
+    "title": "Deltarune",
+    "type": "web",
+    "version": "0.0.1"
+}
